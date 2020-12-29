@@ -1,0 +1,1 @@
+Blank text file that prevents the bin directory from being deleted.
